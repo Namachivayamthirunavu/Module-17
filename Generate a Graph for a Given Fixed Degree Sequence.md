@@ -33,8 +33,8 @@ Step 7: End the program.
 ## PYTHON PROGRAM
 
 ```
-name: vishnu priya E
-reg.no:212223060305
+Reg.No: 212223060179
+Name: Namachivayam T
 
 
 class AdjNode:
